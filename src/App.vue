@@ -6,7 +6,19 @@
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  data () {
+    return {
+      duid: null
+    }
+  },
+  created () {
+
+  },
+  mounted () {
+
+
+  }
 }
 </script>
 
